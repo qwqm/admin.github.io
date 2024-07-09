@@ -674,8 +674,8 @@ if (document.body.clientWidth > 992) {
         zoom: 0.9,
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
-        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-        hoverMsg: "春天啦~",
+        nekoImg: "https://tuchuang.voooe.cn/image/zvnbk",
+        hoverMsg: "我是露比",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -1151,7 +1151,7 @@ function createtime1() {
   );
 }
 
-createtime1();
+//createtime1();
 
 function createtime2() {
   var ascll2 = [`NCC2-036`, `调用前置摄像头拍照成功，识别为「大聪明」`, `Photo captured: `, ` 🤪 `];
@@ -1183,7 +1183,7 @@ function createtime2() {
     console.warn.bind(console, "%c S013-782 %c 你现在正处于监控中", "color:white; background-color:#d9534f", "")
   );
 }
-createtime2();
+//createtime2();
 
 // 重写console方法
 console.log = function () { };
@@ -1282,8 +1282,8 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('Fomalhaut🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    var subTitle = title.endsWith("| Boden") ? title.substring(0, title.length - 14) : title;
+    navigator.clipboard.writeText('Boden的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
