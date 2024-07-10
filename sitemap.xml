@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>http://www.ooa.asia/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ooa.asia/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -75,6 +66,24 @@
   
   <url>
     <loc>http://www.ooa.asia/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ooa.asia/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ooa.asia/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,24 +110,6 @@
   </url>
   
   <url>
-    <loc>http://www.ooa.asia/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ooa.asia/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ooa.asia/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -129,6 +120,15 @@
   
   <url>
     <loc>http://www.ooa.asia/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ooa.asia/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
